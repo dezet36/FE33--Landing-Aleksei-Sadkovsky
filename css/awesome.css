@@ -1,0 +1,85 @@
+.awesome_title {
+    margin: 80px auto 68px;   
+}
+
+.awesome-title-h2 {
+    font-family: raleway;
+    font-weight: 400px;
+    font-size: 36px;
+    line-height: 42.26px;
+    color: #212121;  
+    text-align: center;
+    margin-bottom: 34px;
+}
+.awesome-title-line { 
+width: 64px;
+height: 2px;
+border: 1px solid #E72424;
+margin: 0px auto 34px;
+}
+
+.awesome-title-discription {
+font-family: 'Open Sans';
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #86878B;
+text-align: center;
+}
+
+.bloks {
+    display: flex;
+    justify-content:center;
+    padding: 0px auto;
+    
+}
+
+.bloks-1 {  
+    margin-right: 30px;
+    width: 350px;
+}
+.bloks-2 {
+    margin-right: 30px;
+    width: 350px;
+}
+.bloks-3 {
+    margin-right: 30px;
+    width: 350px;
+}
+
+.bloks-circle {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  border: 1px solid #E72424;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  
+}
+.img {
+    margin: auto;    
+}
+
+.bloks-name {
+font-family: 'Open Sans';
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+margin-bottom: 16px;
+}
+.bloks-text {
+width: 350px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+color: #181818;
+margin-bottom: 20px;
+}
