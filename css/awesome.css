@@ -25,44 +25,34 @@ font-size: 14px;
 line-height: 19px;
 color: #86878B;
 text-align: center;
+margin-bottom: 68px;
 }
 
-.benefits {
+.wrap {
     display: flex;
     justify-content:center;
     padding: 0px auto;
-    margin: 80px;
     
 }
 
-.bloks-1 {  
-    margin-right: 30px;
+.item {  
     width: 350px;
-}
-.bloks-2 {
-    margin-right: 30px;
-    width: 350px;
-}
-.bloks-3 {
-    margin-right: 30px;
-    width: 350px;
+    margin: 0px 15px;
 }
 
-.bloks-circle {
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  margin-left: auto;
-  margin-right: auto;
-  overflow: hidden;
-  border: 1px solid #E72424;
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 30px;
-  
-}
+
+
 .img {
-    margin: auto;    
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid #E72424;
+    margin: 0px auto 30px;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .bloks-name {
