@@ -2,32 +2,6 @@
     padding: 80px 0px;
 }
 
-.title {
-    font-family: raleway;
-    font-weight: 400px;
-    font-size: 36px;
-    line-height: 42.26px;
-    color: #212121;  
-    text-align: center;
-    margin-bottom: 34px;
-}
-.line { 
-width: 64px;
-height: 2px;
-border: 1px solid #E72424;
-margin: 0px auto 34px;
-}
-
-.discription {
-font-family: 'Open Sans';
-font-weight: 400;
-font-size: 14px;
-line-height: 19px;
-color: #86878B;
-text-align: center;
-margin-bottom: 68px;
-}
-
 .wrap {
     display: flex;
     justify-content:center;
@@ -42,7 +16,7 @@ margin-bottom: 68px;
 
 
 
-.img {
+.awesome-img {
     width: 70px;
     height: 70px;
     border-radius: 50%;

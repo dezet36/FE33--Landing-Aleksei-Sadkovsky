@@ -1,0 +1,56 @@
+.PRICING {
+    background-color: #F5F5F5;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}
+.tarif {
+    width: 340px;
+    margin: 0 15px 15px;
+}
+.tarifName {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    background-color: #333333;
+    color: #F5F5F5;
+    margin-bottom: 2px;
+    
+}
+.tarifcoast {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    line-height: 100px;
+    background-color: #333333;
+    margin-bottom: 2px;
+    color: #F5F5F5;
+}
+.tarifdiscript {
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    line-height: 50px;
+    background-color: #333333;
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 2px;
+    
+}
+.tarifitem {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    line-height: 40px;
+    background-color: #FFFFFF;
+    color: #86878B;
+    margin-bottom: 2px;
+}
