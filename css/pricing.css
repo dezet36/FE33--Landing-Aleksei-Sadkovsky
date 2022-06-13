@@ -12,6 +12,11 @@
     width: 340px;
     margin: 0 15px 15px;
 }
+
+.tarif:hover {
+    transform: translate(0px, -20px);
+    
+}
 .tarifName {
     font-family: 'Open Sans';
     font-weight: 700;

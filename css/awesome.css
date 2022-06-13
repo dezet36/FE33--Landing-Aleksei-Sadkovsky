@@ -4,8 +4,10 @@
 
 .wrap {
     display: flex;
-    justify-content:center;
+    display: block;
+    justify-content:space-between;
     padding: 0px auto;
+    
     
 }
 

@@ -1,0 +1,44 @@
+header {
+    background-color: rgb(17, 17, 17);
+}
+
+#headearmenu {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.ax {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+    
+}
+.IT {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: coral;
+}
+.wraper {
+    display: flex;
+    justify-content: space-around;
+    color: #FFFFFF;
+    width: 489px;
+}
+.click {
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+display: flex;
+align-items: center;
+color: rgba(255, 255, 255, 0.7);
+    
+}
+
