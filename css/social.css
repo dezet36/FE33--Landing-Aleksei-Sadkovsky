@@ -1,0 +1,79 @@
+.socialmedia {
+    background-color: #F8EFEF;
+    padding: 15px;
+    
+}
+
+#socialmedia {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.socialinfo {
+    width: 365px;
+    text-align: left;
+    
+}
+.socialdiscription {
+margin-top: 14px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+color: #86878B;
+
+}
+
+.icon {
+    display: flex;
+    justify-content: space-between;
+    width: 684px;
+    margin: 0 15px;
+    
+   
+}
+
+.icon-link {
+    font-size: 42px;
+}
+.fa-brands {
+    color: #86878B;
+}
+
+.fa-solid {
+    color: #86878B;
+}
+
+.fa-facebook:hover {
+    color: blue;
+    transform: scale(1.2);
+}
+.fa-twitter:hover {
+    color:skyblue;
+    transform: rotate(25deg);
+    
+}
+.fa-google-plus-g:hover {
+    color: red;
+    transform: skew(25deg, 20deg);
+}
+.fa-pinterest:hover {
+    color:red;
+    transform: translate(0px, 10px);
+}
+.fa-instagram:hover {
+    color: palevioletred;
+    transform: scale(1.3);
+}
+.fa-vk:hover{
+    color: lightcyan;
+    transform: scale(1.3);
+}
+.fa-rss:hover {
+    color: coral;
+    transform: scale(1.4);
+}

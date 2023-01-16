@@ -1,0 +1,71 @@
+.contact-wraper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 68px;
+    flex-wrap: wrap;
+}
+.about-us {
+    width: 480px;
+    
+}
+.about-items {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.about-items-name {
+    color: #BDBDBD;
+}
+.about-items-input {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    border:none;
+    border-bottom: 1px solid grey;
+    outline: none;
+    width: 100%;
+    
+}
+
+.message-us {
+    display: flex;
+    flex-direction: column;
+    width: 480px;
+}
+.message-name {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #BDBDBD;
+}
+
+#about-message {
+    border: none;
+    border-bottom: 1px solid grey;
+    resize: none;
+    outline: none;
+    height: 187px;
+}
+
+.message {
+    display: block;
+    margin: auto;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 11px 30px;
+    text-align: center;
+    cursor: pointer;
+    background-color: coral;
+    color: #fff;
+    border: none;
+    
+}
+
+.message :hover {
+    
+}

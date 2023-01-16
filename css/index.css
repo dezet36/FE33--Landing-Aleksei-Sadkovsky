@@ -1,5 +1,13 @@
-@import url("./cdn.css");
-@import url("./awesome.css");
+@import url("../css/cdn.css");
+@import url("../css/awesome.css");
+@import url("../css/pricing.css");
+@import url("../css/customers.css");
+@import url("../css/design.css");
+@import url("../css/header.css");
+@import url("../css/social.css");
+@import url("../css/footer.css");
+@import url("../css/first-page.css");
+@import url("../css/contact\ us.css");
 
 *{
     margin: 0;
@@ -9,12 +17,54 @@
     text-decoration: none;
 }
 
+section {
+    padding: 80px 0;
+}
+
 .container {
     max-width: 1170px;
     margin: auto;
-    padding: 0px 215px;
+    padding: 0px 15px;
 }
 
 html{
     font-family: 'Open Sans','Raleway', sans-serif;
+}
+
+.title {
+    font-family: 'raleway';
+    font-weight: 400px;
+    font-size: 36px;
+    line-height: 42.26px;
+    color: #212121;  
+    text-align: center;
+    margin-bottom: 34px;
+}
+
+.title::after{
+    content: "";
+    width: 64px;
+    height: 2px;
+    background-color: red;
+    display: block;
+    margin: 30px auto;
+}
+
+
+.discription {
+font-family: 'Open Sans';
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #86878B;
+text-align: center;
+margin-bottom: 68px;
+}
+
+a { 
+    color: #fff;
+}
+
+a:visited {
+    color: #fff;
 }
